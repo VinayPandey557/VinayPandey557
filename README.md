@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinay Pandey</h1>
+<h1 align="center">Hi 👋, I'm Vinay Kumar Pandey</h1>
 <h3 align="center">A passionate full-stack developer and tech enthusiast</h3>
 
 ---
