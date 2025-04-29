@@ -9,7 +9,7 @@
 - 🧠 Currently learning **AI, Docker, WebSockets, and Full Stack Development**
 - 👨‍💻 All of my projects are available at [github.com/VinayPandey557](https://github.com/VinayPandey557)
 - 💬 Ask me about **MERN stack, Docker, Prisma, and building MVPs**
-- 📫 Reach me at **vinaypandey557@gmail.com**
+- 📫 Reach me at **vinaypandey46158@gmail.com**
 - ⚡ Fun fact: I love building things from scratch and diving deep into systems
 
 ---
@@ -56,7 +56,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinaypandey557)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/557vinaypandey/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/VinayPandey557)
 
 ---
